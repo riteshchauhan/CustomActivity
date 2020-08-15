@@ -4,8 +4,11 @@
   "description": "This is my first custom Activity",
   "main": "activity.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node activity.js"
   },
   "author": "Ritesh Chauhan",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "postmonger": "file:postmonger"
+  }
 }
