@@ -9,6 +9,8 @@
   "author": "Ritesh Chauhan",
   "license": "ISC",
   "dependencies": {
-    "postmonger": "file:postmonger"
+    "jquery": "^3.5.1",
+    "postmonger": "file:postmonger",
+    "require": "^2.4.20"
   }
 }
