@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "This is my first custom Activity",
   "main": "customActivity.js",
+  "amd": {},
   "scripts": {
     "start": "node customActivity.js"
   },
