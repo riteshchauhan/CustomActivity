@@ -2,7 +2,7 @@
   "name": "mcactivity",
   "version": "1.0.0",
   "description": "This is my first custom Activity",
-  "main": "js/customActivity.js",
+  "main": "customActivity.js",
   "scripts": {
     "start": "node customActivity.js"
   },
