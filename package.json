@@ -5,7 +5,9 @@
   "main": "js/customActivity.js",
   "amd": {}
   },
-  "author": "Ritesh Chauhan",
+
+  {
+    "author": "Ritesh Chauhan",
   "license": "ISC",
   "dependencies": {
     "jquery": "^3.5.1",
