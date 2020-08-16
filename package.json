@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "This is my first custom Activity",
   "main": "js/customActivity.js",
-  "amd": {},
-  "scripts": {
-    "start": ""
+  "amd": {}
   },
   "author": "Ritesh Chauhan",
   "license": "ISC",
