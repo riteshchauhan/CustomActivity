@@ -3,15 +3,12 @@
   "version": "1.0.0",
   "description": "This is my first custom Activity",
   "main": "js/customActivity.js",
-  "amd": {}
-  },
-
-  {
-    "author": "Ritesh Chauhan",
+  "amd": {},
+  "author": "Ritesh Chauhan",
   "license": "ISC",
   "dependencies": {
-    "jquery": "^3.5.1",
-    "postmonger": "file:postmonger",
+  "jquery": "^3.5.1",
+  "postmonger": "file:postmonger",
     "require": "^2.4.20"
   }
 }
