@@ -4,7 +4,8 @@
   "description": "This is my first custom Activity",
   "main": "js/customActivity.js",
   "amd": {},
-  "start": "node js/customActivity.js",
+  "scripts":{
+  "start": "node js/customActivity.js"},
   "author": "Ritesh Chauhan",
   "license": "ISC",
   "dependencies": {
