@@ -1,3 +1,3 @@
-var dmp connection = new Postmonger.Session();
+var connection = new Postmonger.Session();
 
 connection.trigger('ready');
