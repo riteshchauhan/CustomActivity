@@ -4,7 +4,7 @@
   "description": "This is my first custom Activity",
   "main": "customActivity.js",
   "scripts": {
-    "start": "index.html"
+    "start": "node customActivity.js"
   },
   "author": "Ritesh Chauhan",
   "license": "ISC",
