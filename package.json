@@ -5,7 +5,7 @@
   "main": "js/customActivity.js",
   "amd": {},
   "scripts":{
-  "start": "index.html"},
+  "start": "node js/customActivity.js"},
   "author": "Ritesh Chauhan",
   "license": "ISC",
   "dependencies": {
