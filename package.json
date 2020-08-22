@@ -2,10 +2,10 @@
   "name": "mcactivity",
   "version": "1.0.0",
   "description": "This is my first custom Activity",
-  "main": "js/customActivity.js",
+  "main": "customActivity.js",
   "amd": {},
   "scripts":{
-  "start": "node js/customActivity.js"},
+  "start": "node customActivity.js"},
   "author": "Ritesh Chauhan",
   "license": "ISC",
   "dependencies": {
